@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Kproject feature.
+ */
+
+include_once 'kproject.features.inc';
