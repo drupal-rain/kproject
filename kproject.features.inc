@@ -29,7 +29,7 @@ function kproject_node_info() {
     'kproject' => array(
       'name' => t('Project'),
       'base' => 'node_content',
-      'description' => '',
+      'description' => t('The project hub.'),
       'has_title' => '1',
       'title_label' => t('Title'),
       'help' => '',
